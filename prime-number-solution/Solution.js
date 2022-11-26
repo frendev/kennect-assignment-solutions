@@ -19,10 +19,14 @@ const nextPrime = (x) => {
 const primeNum = isPrime(x);
 
 if (primeNum) {
-  console.log(`The ${x} is a prime number.`);
+  console.log(`${x} is a prime number.`);
   const y = nextPrime(x);
   const difference = y - x;
   console.log(`The difference between ${y} and ${x} is ${difference}.`);
 } else {
   console.log(`The ${x} is not a prime number.`);
 }
+
+// Output
+// 5 is a prime number. 
+// The difference between 7 and 5 is 2.
