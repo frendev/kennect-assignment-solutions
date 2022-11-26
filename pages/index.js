@@ -12,6 +12,7 @@ export default function Home() {
 
     for (let i = 0; i < childs.length; i++) {
       var childElement = childs[i];
+      console.log(childElement.classList);
       if (childElement.classList.contains(targetClassName)) {
         childElement.classList.add('shape');
       }
