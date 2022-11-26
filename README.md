@@ -4,7 +4,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 The reason of making this project in Next.js is to easily deploy the solution on vercel. This will also help the reviewer to see the live demo rather than, running the project locally and see the answer to the solution.
 
-![kennect-questions(/kennect-questions.png)
+These were the assignment questions -
+
+![kennect-questions](/kennect-questions.png)
 
 ```bash
 npm run dev
