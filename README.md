@@ -14,8 +14,8 @@ https://codesandbox.io/s/kennect-assignment-oitgnk?file=/index.html
 
 #### For JWT and Its benefits -
 
-Check the folder **jwt-and-its-benefits** in this repo.
+Check the folder **jwt-and-its-benefits** in this repo or [click here](https://github.com/frendev/kennect-assignment-solutions/blob/main/jwt-and-its-benefits/Solution.md).
 
 #### For prime number question -
 
-Check the folder **prime-number-solution** in this repo.
+Check the folder **prime-number-solution** in this repo [click here](https://github.com/frendev/kennect-assignment-solutions/blob/main/prime-number-solution/Solution.js).
