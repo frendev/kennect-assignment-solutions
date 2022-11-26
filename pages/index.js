@@ -27,6 +27,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div className="App">
+        <h1>Kennect Assignment Solution</h1>
         <div id="john">
           <input id="name" type="text" onFocus={focusHandler} />
           {/* <p>
