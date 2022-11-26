@@ -22,7 +22,7 @@ The JWTs can be broken into three parts - Header, Payload, Signature and they ar
 
 #### The flow of the JWT is as follows -
 
-![JWT Flow](/jwt.png)
+![JWT Flow](/jwt-and-its-benefits/jwt.png)
 
 Client (Browser) sends post request with credentials to server.
 Server authenticates user credential and generates JWT + secret. Server is not storing anything in this case which will save server memory and improve performance.
