@@ -1,5 +1,3 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 ## Kennect Assignment Solution -
 
 The reason of making this project in Next.js is to easily deploy the solution on vercel. This will also help the reviewer to see the live demo rather than, running the project locally and see the answer to the solution.
